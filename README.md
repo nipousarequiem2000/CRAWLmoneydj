@@ -1,4 +1,3 @@
-#新聞網站爬蟲
 文字探勘作業需要，寫了一個
 理財網(moneydj)網站新聞爬蟲程式，資料含標題、時間和內文
 [moneydj](https://www.moneydj.com/kmdj/news/newsreallist.aspx?a=mb010000)
